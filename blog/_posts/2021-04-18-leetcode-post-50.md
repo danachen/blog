@@ -4,7 +4,7 @@ title: Leet post-50
 category: blog
 ---
 
-After a few weeks, I've gone through a selection fo 50 Leet problems. Some thoughts.
+After a few weeks, I've gone through a selection of 50 Leet problems. Some thoughts.
 
 - It's enjoyable to go through a concept and work through problems, from easy to hard. It's a steep learning curve going from understanding the basic principle of a concept, to bolting on additional data structure in support of the concept, and in the case of hard problems, having to keep track of additional variables.
 - Remembering how to solve easy to medium problems after the first time is about 50/50. What I can solve one time, seems to stay solvable the second time around. What I had trouble with the first time, stays problematic, which leads me to suspect that there's issues that I'm still murky about in the problem.
